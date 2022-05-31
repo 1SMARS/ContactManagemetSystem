@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Final CSharp\ContactMs\ContactMs\bin\Debug\ContactMS.exe.config
+C:\Users\User\Desktop\Final CSharp\ContactMs\ContactMs\bin\Debug\ContactMS.exe
+C:\Users\User\Desktop\Final CSharp\ContactMs\ContactMs\bin\Debug\ContactMS.pdb
+C:\Users\User\Desktop\Final CSharp\ContactMs\ContactMs\obj\Debug\ContactMs.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Final CSharp\ContactMs\ContactMs\obj\Debug\ContactMs.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Final CSharp\ContactMs\ContactMs\obj\Debug\ContactMs.Form1.resources
+C:\Users\User\Desktop\Final CSharp\ContactMs\ContactMs\obj\Debug\ContactMS.Properties.Resources.resources
+C:\Users\User\Desktop\Final CSharp\ContactMs\ContactMs\obj\Debug\ContactMs.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Final CSharp\ContactMs\ContactMs\obj\Debug\ContactMs.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Final CSharp\ContactMs\ContactMs\obj\Debug\ContactMS.exe
+C:\Users\User\Desktop\Final CSharp\ContactMs\ContactMs\obj\Debug\ContactMS.pdb
